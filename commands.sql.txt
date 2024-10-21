@@ -1,1 +1,1 @@
-nvnvc;knwck
+ create database SMALLBASKET ;
