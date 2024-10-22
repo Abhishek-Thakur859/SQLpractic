@@ -2,3 +2,4 @@
 
  CREATE TABLE Persons ( PersonID int, LastName varchar(255), FirstName varchar(255), Address varchar(255), City varchar(255) );
  CREATE TABLE product_ID ( productID int, productName varchar(255), productNo int(20) ) ;
+ create table orders(orderid int(10), Personid varchar(20), Productid varchar(30));
